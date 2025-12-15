@@ -2,7 +2,7 @@
 
 ## 💻Developer
 
-## I'm a developer diving deep into **web development**, and **machine learning**. I enjoy building real-world projects, learning about new concepts , and how they are and can be applied in the real world.
+## I'm a developer heavily interested in **web development**, and **machine learning**. I enjoy building real-world projects, learning about new concepts , and how they are and can be applied in the real world.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  alt="MySQL"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow Badge">
+
 </p>
 
 ---
