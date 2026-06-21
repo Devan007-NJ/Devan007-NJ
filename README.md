@@ -36,4 +36,4 @@
 ## 🚀 Currently Learning
 
 - Typescript
-- C++
+- Django
